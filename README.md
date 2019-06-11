@@ -1,1 +1,1 @@
-# a15u
+# Alexandru Paduraru's blog
